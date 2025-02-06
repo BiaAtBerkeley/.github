@@ -6,7 +6,7 @@
 
 <!-- Badges - unfortunately not pure markdown due to inability to center -->
 <p align="center">
-  <a href="https://callink.berkeley.edu/organization/biaatberkeley">
+  <a href="https://img.shields.io/badge/Callink-green">
     <img src="https://callink.berkeley.edu/organization/biaatberkeley">
   </a>
 </p>
