@@ -1,3 +1,7 @@
-# BIA at Berkeley
+<p align="center">
+  <img src="bia-art.png" width="200" alt="BIA banner">
+</p>
 
-Hi! This is the official github organization for the UC Berkeley Registered Student Organization BIA @ Berkeley.
+<h1 align="center">BIA at Berkeley</h1>
+
+<p align="center">Hi! This is the official github organization for the UC Berkeley Registered Student Organization BIA @ Berkeley.</p>
