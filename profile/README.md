@@ -9,5 +9,5 @@
 <p align="center">BIA at Berkeley is on a mission to co-create benefits with all students at Berkeley. We provide free services and campus information to all incoming students, with a special focus on international students. Our open, free membership welcomes everyone to enjoy discounts at more than 25 local businesses around Berkeley, as well as regular free movies, arts and crafts, culture festival events, and recreational activities.</p>
 
 ***Links:***
-[![](https://img.shields.io/badge/callink-green)](https://callink.berkeley.edu/organization/biaatberkeley)
+[![](https://img.shields.io/badge/callink-green?style=social)](https://callink.berkeley.edu/organization/biaatberkeley)
 [Instagram](https://www.instagram.com/biaberkeley/)
