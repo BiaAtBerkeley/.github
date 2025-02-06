@@ -6,10 +6,10 @@
 
 <!-- Badges - unfortunately not pure markdown due to inability to center -->
 <p align="center">
-  <a href="https://callink.berkeley.edu/organization/biaatberkeley">
+  <a href="https://callink.berkeley.edu/organization/biaatberkeley" target="_blank">
     <img src="https://img.shields.io/badge/Callink-green">
   </a>
-  <a href="https://www.instagram.com/biaberkeley/">
+  <a href="https://www.instagram.com/biaberkeley/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink">
   </a>
 </p>
